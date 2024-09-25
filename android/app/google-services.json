@@ -1,0 +1,55 @@
+{
+	"project_info": {
+	  "project_number": "691656317540",
+	  "project_id": "anugrah-lens-app-22fd4",
+	  "storage_bucket": "anugrah-lens-app-22fd4.appspot.com"
+	},
+	"client": [
+	  {
+		"client_info": {
+		  "mobilesdk_app_id": "1:691656317540:android:3b216ddab3d4e161a09d71",
+		  "android_client_info": {
+			"package_name": "com.example.anugrah_lens"
+		  }
+		},
+		"oauth_client": [
+		  {
+			"client_id": "691656317540-lt0rdrjujbv1uj8gdmo71iv9p832nmnd.apps.googleusercontent.com",
+			"client_type": 1,
+			"android_info": {
+			  "package_name": "com.example.anugrah_lens",
+			  "certificate_hash": "c60ca8a1b9abfed57674feb782fa27e349e5f9c3"
+			}
+		  },
+		  {
+			"client_id": "691656317540-oih7svluabkdmj2dfdm2kfqmvcbhfgot.apps.googleusercontent.com",
+			"client_type": 1,
+			"android_info": {
+			  "package_name": "com.example.anugrah_lens",
+			  "certificate_hash": "c42df60db7f0ed9ab727304688ebe72c5343050a"
+			}
+		  },
+		  {
+			"client_id": "691656317540-le92saodd4hjatimmrmrt1a2qvknfq9q.apps.googleusercontent.com",
+			"client_type": 3
+		  }
+		],
+		"api_key": [
+		  {
+			"current_key": "AIzaSyAGWychjeJj-fEBTel9X_mm2TlKfd4RLE0"
+		  }
+		],
+		"services": {
+		  "appinvite_service": {
+			"other_platform_oauth_client": [
+			  {
+				"client_id": "691656317540-le92saodd4hjatimmrmrt1a2qvknfq9q.apps.googleusercontent.com",
+				"client_type": 3
+			  }
+			]
+		  }
+		}
+	  }
+	],
+	"configuration_version": "1"
+  }
